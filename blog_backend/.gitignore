@@ -1,0 +1,35 @@
+
+# Environnement virtuel
+
+venv/
+
+env/
+
+# Variables sensibles —
+
+.env
+
+# Python
+
+__pycache__/
+
+*.pyc
+
+*.pyo
+
+# Logs
+
+*.log
+
+# Editeur
+
+.vscode/
+
+.idea/
+
+# OS
+
+.DS_Store
+
+Thumbs.db
+
